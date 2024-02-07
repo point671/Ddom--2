@@ -5121,6 +5121,11 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
     margin: 0 auto;
   }
 
+	.red-button {
+
+  padding: 15px;
+
+}
   .left-footer-any-questions {
     -webkit-box-flex: 0;
         -ms-flex: 0 1 50%;
